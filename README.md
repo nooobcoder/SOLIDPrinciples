@@ -1,3 +1,9 @@
+---
+
+#### ⚠️ Final Commit, no changes/mods intended in future.
+
+---
+
 ## SOLID PRINCIPLES
 
 - ➡️ Single Responsibility
